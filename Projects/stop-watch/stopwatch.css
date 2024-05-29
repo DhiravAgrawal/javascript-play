@@ -1,0 +1,14 @@
+#stop-watch{
+    position: absolute;
+    top: 500%;
+    left: 50%;
+    height: 300px;
+    width: 300px;
+}
+#timer{
+    background-color: black;
+    color: aliceblue;
+}
+#control-btn{
+    justify-content: center;
+}
